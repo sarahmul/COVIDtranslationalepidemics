@@ -16,19 +16,19 @@ The main commented file is [here](https://github.com/sarahmul/COVIDtranslational
 
 ## Models
 <p align="center">
-  <img width="200"  src="https://github.com/sarahmul/COVIDtranslationalepidemics/Figures/Figure_3.png">
+  <img width="500"  src="Figures/Figure_3.png">
 </p>
 
 ## Parameters used in these models
 
 ### Table 1: Model Parameters for Rat Experiments
 <p align="center">
-  <img width="200"  src="https://github.com/sarahmul/COVIDtranslationalepidemics/Figures/Table_1.png">
+  <img width="500"  src="Figures/Table_1.png">
 </p>
 
 ### Table 2: Model Parameters for Human Experiments
 <p align="center">
-  <img width="200"  src="https://github.com/sarahmul/COVIDtranslationalepidemics/Figures/Table_2.png">
+  <img width="500"  src="Figures/Table_2.png">
 </p>
 
 ## How to cite?
